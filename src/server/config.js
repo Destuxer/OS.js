@@ -42,3 +42,4 @@ module.exports = {
   port: 8000,
   public: path.resolve(root, 'dist')
 };
+index = index.html
